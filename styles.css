@@ -72,8 +72,8 @@ img{
   max-width: 1024px;
   display: grid;
   grid-template-columns: 100%;
-  column-gap: 2rem;
-  width: calc(100% - 2rem);
+  column-gap: 3rem;
+  width: calc(100% - 3rem);
   margin-left: 1rem;
   margin-right: 1rem;
 }
