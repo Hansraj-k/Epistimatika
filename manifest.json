@@ -1,48 +1,48 @@
 {
-	"name": "K.I.L Studio",
-	"short_name": "K.I.L Studio",
+	"name": "Epistímatiká",
+	"short_name": "Epistímatiká",
 	"start_url": ".",
-	"background_color": "#000000",
-	"theme_color": "#000000",
+	"background_color": "#FCA4A6",
+	"theme_color": "#FCA4A6",
 	"display": "standalone",
 	"icons": [
 		{
-        "src": "logo.png",
+        "src": "epistimatika.png",
         "type": "image/png",
         "sizes": "72x72"
       },
       {
-        "src": "logo.png",
+        "src": "epistimatika.png",
         "type": "image/png",
         "sizes": "96x96"
       },
       {
-        "src": "logo.png",
+        "src": "epistimatika.png",
         "type": "image/png",
         "sizes": "128x128"
       },
       {
-        "src": "logo.png",
+        "src": "epistimatika.png",
         "type": "image/png",
         "sizes": "144x144"
       },
       {
-        "src": "logo.png",
+        "src": "epistimatika.png",
         "type": "image/png",
         "sizes": "152x152"
       },
       {
-        "src": "logo.png",
+        "src": "epistimatika.png",
         "type": "image/png",
         "sizes": "192x192"
       },
       {
-        "src": "logo.png",
+        "src": "epistimatika.png",
         "type": "image/png",
         "sizes": "384x384"
       },
       {
-        "src": "logo.png",
+        "src": "epistimatika.png",
         "type": "image/png",
         "sizes": "512x512"
       }
