@@ -12,7 +12,7 @@ document.getElementById("contact-form").addEventListener("submit", function(even
   emailjs.init('1t10z70Sw2ijT66uf');
   
   // Send email
-  emailjs.send("service_wuhpykt", "template_9e6185a",{
+  emailjs.send("service_fvs3hs7", "template_07nu8r5",{
     name: name,
     email: email,
     number: number,
