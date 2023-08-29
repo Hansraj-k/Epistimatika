@@ -163,11 +163,6 @@ img{
   grid-template-rows: repeat(2, max-content);
   row-gap: 1.5rem;
 }
-.home__container1{
-  height: calc(51vh - var(--header-height));
-  grid-template-rows: repeat(2, max-content);
-  row-gap: 1.5rem;
-}
 .home__img{
   position: relative;
   padding-top: 1.5rem;
