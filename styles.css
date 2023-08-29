@@ -159,7 +159,7 @@ img{
 }
 
 .home__container{
-  height: calc(50vh - var(--header-height));
+  height: calc(100vh - var(--header-height));
   grid-template-rows: repeat(2, max-content);
   row-gap: 1.5rem;
 }
