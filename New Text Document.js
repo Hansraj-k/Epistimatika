@@ -9,10 +9,10 @@ document.getElementById("contact-form").addEventListener("submit", function(even
   var message = document.getElementById("message").value;
   
   // EmailJS configuration
-  emailjs.init('1t10z70Sw2ijT66uf');
+  emailjs.init('JRHjEBI-jdg1DkFEp');
   
   // Send email
-  emailjs.send("service_fvs3hs7", "template_07nu8r5",{
+  emailjs.send("service_3b935ea", "template_07nu8r5",{
     name: name,
     email: email,
     number: number,
