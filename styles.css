@@ -7,6 +7,10 @@
   --normal-font-size: .938rem;
 }
 
+@font-face {
+    font-family: JosefinSans-Bold;
+    src: url(JosefinSans-Bold.ttf)
+}
 @media screen and (min-width: 768px){
   :root{
     --big-font-size: 5rem;
@@ -45,6 +49,7 @@ body{
 }
 .footer-col-2 p{
     color: #8a8a8a;
+    font-family: JosefinSans-Bold;
 }
 .footer-col-2 h3{
     color: #000;
@@ -53,7 +58,9 @@ body{
 h1,p,ul{
   margin: 0;
 }
-
+.home__description p{
+  font-family: JosefinSans-Bold;
+}
 ul{
   padding: 0;
   list-style: none;
