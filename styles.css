@@ -58,7 +58,7 @@ body{
 h1,p,ul{
   margin: 0;
 }
-.home__description p{
+.home__description{
   font-family: JosefinSans-Bold;
 }
 ul{
