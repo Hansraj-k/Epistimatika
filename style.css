@@ -2,7 +2,7 @@
 @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600&display=swap");
 /*===== VARIABLES CSS =====*/
 :root{
-  --header-height: 6rem;
+  --header-height: 3rem;
   --big-font-size: 2.5rem;
   --normal-font-size: .938rem;
 }
