@@ -160,7 +160,7 @@ img{
 }
 
 .home__container{
-  height: calc(100vh - var(--header-height));
+  height: calc(210vh - var(--header-height));
   grid-template-rows: repeat(2, max-content);
   row-gap: 1.5rem;
 }
@@ -250,7 +250,7 @@ img{
   }
 
   .home__container{
-    height: 100vh;
+    height: 210vh;
     grid-template-columns: repeat(2, max-content);
     grid-template-rows:  1fr;
     row-gap: 0;
