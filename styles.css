@@ -86,7 +86,7 @@ img{
   width: calc(100% - 3rem);
   margin-left: 1rem;
   margin-right: 1rem;
-  margin-bottom: 210px;
+ 
 }
 .l-header{
   width: 100%;
@@ -216,7 +216,7 @@ img{
   .bd-grid{
     margin-left: auto;
     margin-right: auto;
-    margin-bottom: 210px;
+   
   }
   body{
     margin: 10px;
@@ -281,7 +281,7 @@ img{
   .bd-grid{
     margin-left: auto;
     margin-right: auto;
-    margin-bottom: 210px;
+   
   }
 
   .home__container{
