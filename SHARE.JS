@@ -7,8 +7,8 @@ shareBtn.addEventListener('click', event => {
       const pinterestImg = document.querySelector(".pinterest-img");
 
     navigator.share({
-      img: 'EPISTIMATIKA.PNG',
-      text: 'Discover a world of knowledge with Epistimatika, your gateway to a universe of books and short notes that will ignite your curiosity and expand your horizons. Dive into captivating stories, unravel profound insights, and embark on intellectual adventures that will enrich your mind. Explore our vast collection today and let the pages of wisdom guide your journey to enlightenment.',
+      img: 'AB.PNG',
+      text: 'Discover a world of knowledge with Epistimatika, your gateway to a universe of books and short notes that will ignite your curiosity and expand your horizons. Dive into captivating stories, unravel profound insights, and embark on intellectual adventures that will enrich your mind. Explore our vast collection today and let the pages of wisdom guide your journey to enlightenment:',
       url: 'https://epistimatika.netlify.app',
       h1: 'Thanks & Regards, <br>"Epistímatiká: Illuminating Minds, One Page at a Time."'
     }).then(() => {
