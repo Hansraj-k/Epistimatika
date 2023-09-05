@@ -130,6 +130,25 @@ img{
 .nav__item{
   margin-bottom: 2rem;
 }
+  .nav__items{
+    margin-left: 3rem;
+    margin-bottom: 0;
+    font-family: 'Poppins', sans-serif;
+    Cursor: pointer;
+  }
+  .share{
+  font-family: 'Poppins', sans-serif;
+  color: #C1576A;
+}
+.bx{
+  color: #C1576A;
+}
+    .share:hover{
+  color: #fff;
+}
+    .bx:hover{
+  color: #fff;
+}
 .nav__close{
     color: #C1576A;
 }
@@ -226,6 +245,25 @@ img{
   .home__title{
     margin: 0px;
   }
+    .nav__items{
+    margin-left: 3rem;
+    margin-bottom: 0;
+    font-family: 'Poppins', sans-serif;
+    Cursor: pointer;
+  }
+  .share{
+  font-family: 'Poppins', sans-serif;
+  color: #fff;
+}
+.bx{
+  color: #fff;
+}
+    .share:hover{
+  color: #C1576A;
+}
+    .bx:hover{
+  color: #C1576A;
+}
   .nav{
     height: calc(4.5rem);
   }
