@@ -130,6 +130,9 @@ img{
 .nav__item{
   margin-bottom: 2rem;
 }
+.nav__items{
+  margin-bottom: 2rem;
+}
 .nav__close{
     color: #C1576A;
 }
@@ -248,7 +251,10 @@ img{
     margin-left: 3rem;
     margin-bottom: 0;
   }
-
+  .nav__items{
+    margin-left: 3rem;
+    margin-bottom: 0;
+  }
   .home__container{
     height: 100vh;
     grid-template-columns: repeat(2, max-content);
