@@ -133,7 +133,10 @@ img{
 .nav__items{
   margin-bottom: 2rem;
   Cursor: pointer;
+}
+.share{
   font-family: 'Poppins', sans-serif;
+  color: #C1576A;
 }
 .nav__close{
     color: #C1576A;
