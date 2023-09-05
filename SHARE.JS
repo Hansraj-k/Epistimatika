@@ -6,6 +6,7 @@ shareBtn.addEventListener('click', event => {
   if (navigator.share) {
     // Browser supports native share api
     navigator.share({
+      let postUrl = encodeURI(document.location.href);
       img: 'assets/img/bg.jpg',
       text: 'Digitizing Creativity Is All That We Do So Well ,   Check Our Creativity 👇🏻 & Digitalize Your Creativity: ',
       url: '${postUrl}',
