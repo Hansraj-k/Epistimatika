@@ -8,7 +8,7 @@ shareBtn.addEventListener('click', event => {
 
     let postUrl = encodeURI(document.location.href);
     navigator.share({
-      img: 'EISTIMATIKA.PNG',
+      img: 'EPISTIMATIKA.PNG',
       text: 'Digitizing Creativity Is All That We Do So Well ,   Check Our Creativity 👇🏻 & Digitalize Your Creativity: ',
       url: '${postUrl}',
       h1: 'Thanks & Regards, <br> Websites By Hansraj Kondeda'
