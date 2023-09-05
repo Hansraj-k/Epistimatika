@@ -141,6 +141,12 @@ img{
 .bx{
   color: #C1576A;
 }
+  .share:hover{
+  color: #C1576A;
+}
+  .bx:hover{
+  color: #C1576A;
+}
 .nav__close{
     color: #C1576A;
 }
