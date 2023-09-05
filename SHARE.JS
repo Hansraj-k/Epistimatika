@@ -1,12 +1,14 @@
 const shareBtn = document.getElementById('shareBtn');
 
 shareBtn.addEventListener('click', event => {
-  let postUrl = encodeURI(document.location.href);
   // Check for Web Share api support
   if (navigator.share) {
     // Browser supports native share api
+      const pinterestImg = document.querySelector(".pinterest-img");
+
+    let postUrl = encodeURI(document.location.href);
     navigator.share({
-      img: 'assets/img/bg.jpg',
+      img: 'PISTIMATIKA.PNG',
       text: 'Digitizing Creativity Is All That We Do So Well ,   Check Our Creativity 👇🏻 & Digitalize Your Creativity: ',
       url: '${postUrl}',
       h1: 'Thanks & Regards, <br> Websites By Hansraj Kondeda'
