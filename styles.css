@@ -265,13 +265,6 @@ img{
     font-family: 'Poppins', sans-serif;
     Cursor: pointer;
   }
-.share{
-  font-family: 'Poppins', sans-serif;
-  color: #C1576A;
-}
-.bx{
-  color: #C1576A;
-}
   .home__container{
     height: 100vh;
     grid-template-columns: repeat(2, max-content);
