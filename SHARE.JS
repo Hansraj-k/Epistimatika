@@ -1,7 +1,7 @@
 const shareBtn = document.getElementById('shareBtn');
-let postUrl = encodeURI(document.location.href);
-shareBtn.addEventListener('click', event => {
 
+shareBtn.addEventListener('click', event => {
+  let postUrl = encodeURI(document.location.href);
   // Check for Web Share api support
   if (navigator.share) {
     // Browser supports native share api
