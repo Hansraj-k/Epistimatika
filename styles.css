@@ -138,6 +138,9 @@ img{
   font-family: 'Poppins', sans-serif;
   color: #C1576A;
 }
+.bx bx-share-alt{
+  color: #C1576A;
+}
 .nav__close{
     color: #C1576A;
 }
