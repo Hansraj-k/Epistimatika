@@ -1,10 +1,9 @@
-const shareBtn = document.getElementById('shareBtn')
+const shareBtn = document.getElementById('shareBtn');
 let postUrl = encodeURI(document.location.href);
 shareBtn.addEventListener('click', event => {
 
   // Check for Web Share api support
   if (navigator.share) {
-    let postUrl = encodeURI(document.location.href);
     // Browser supports native share api
     navigator.share({
       img: 'assets/img/bg.jpg',
