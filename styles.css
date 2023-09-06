@@ -299,7 +299,7 @@ img{
   color: #C1576A;
 }
   .home__container{
-    height: 100vh;
+    height: 120vh;
     grid-template-columns: repeat(2, max-content);
     grid-template-rows:  1fr;
     row-gap: 0;
