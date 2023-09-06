@@ -54,11 +54,11 @@ body{
     color: #8a8a8a;
     font-family: JosefinSans-Bold;
 }
-hr{
+hr {
     border: none;
     background: #fff;
-    height: 1px;
-    margin: 45px 0;
+    height: 3px;
+    margin: 15px 100px;
 }
 .img {
     height: 100px;
