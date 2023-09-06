@@ -61,6 +61,7 @@ hr{
 }
 .img {
     height: 100px;
+    align-items: center;
 }
 .footer-col-2 h3{
     color: #000;
