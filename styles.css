@@ -53,6 +53,12 @@ body{
     color: #8a8a8a;
     font-family: JosefinSans-Bold;
 }
+hr{
+    border: none;
+    background: #b5b5b5;
+    height: 1px;
+    margin: 20px 0;
+}
 .footer-col-2 h3{
     color: #000;
     margin-bottom: 20px; 
