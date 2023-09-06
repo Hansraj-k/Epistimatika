@@ -32,7 +32,7 @@ body{
   background-color: #FCA4A6;
 }
 .container{
-  height: 100vh;
+  height: 150vh;
   width: 100%;
   background-image: url(background.png);
   background-position: center;
