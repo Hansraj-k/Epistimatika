@@ -59,6 +59,9 @@ hr{
     height: 1px;
     margin: 20px 0;
 }
+.img {
+    height: 100px;
+}
 .footer-col-2 h3{
     color: #000;
     margin-bottom: 20px; 
