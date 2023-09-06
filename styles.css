@@ -55,13 +55,15 @@ body{
 }
 hr{
     border: none;
-    background: #000000;
+    background: #535252;
     height: 1px;
     margin: 20px 0;
 }
 .img {
     height: 100px;
-    align-items: center;
+}
+.end {
+    text-align: center;
 }
 .footer-col-2 h3{
     color: #000;
