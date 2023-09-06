@@ -76,7 +76,19 @@ img{
   max-width: 100%;
   height: auto;
 }
-
+hr {
+  border: none;
+  background: #fff;
+  height: 3px;
+  margin: 15px 100px;
+}
+.img {
+  height: 100px;
+}
+.end {
+  text-align: center;
+  background-color: #FCA4A6;
+}
 /*===== LAYOUT =====*/
 .bd-grid{
   max-width: 1024px;

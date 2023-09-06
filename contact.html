@@ -185,5 +185,11 @@ Call Us On +91 90199 66297</span></a>
         var installPromptEvent;window.addEventListener("beforeinstallprompt",function(e){installPromptEvent = e; document.querySelector("#downloadApp").style.visibility = "visible";/*console.log("beforeinstallprompt Event fired", installPromptEvent);*/document.querySelector("#downloadApp").addEventListener("click",function(){installPromptEvent && installPromptEvent.prompt(); }),e.userChoice.then(function(e){("dismissed"===e.outcome || e === undefined)?(console.log("User cancelled home screen install")):(document.querySelector("#downloadApp").style.visibility = "hidden",console.log("User added to home screen"))})});
       </script>
       <script src="share.js"></script>
+    <script src="rcd.js"></script>
+      <script>
+	  document.addEventListener ('contextmenu', (e)=>{
+    		e.preventDefault();
+	  })
+      </script>
     </body>
 </html>
